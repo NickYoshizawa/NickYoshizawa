@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Nicolas Yoshizawa Fumani
+# 👨‍💻 Nicolas Yoshizawa Fumani
 
 **`Desenvolvedor Back-End`**
 
