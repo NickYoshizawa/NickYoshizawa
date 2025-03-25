@@ -4,7 +4,7 @@
 
 Saudações ✌
 
-Me chamo Nicolas Yoshizawa, tenho 20 anos e sou de Bragança Paulista - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Bragança Paulista. Sou fascinado por tecnologia e desenvolvimento, já tendo feito vários projetos de automação pessoais a para empresas. No momento sou Analista de Suporte I na empresa [Stefanini Group](https://www.linkedin.com/company/stefanini).
+Me chamo Nicolas Yoshizawa, tenho 20 anos e sou de Bragança Paulista - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Bragança Paulista. Sou fascinado por tecnologia e desenvolvimento, já tendo feito vários projetos de automação pessoais e para empresas. No momento sou Analista de Suporte I na empresa [Stefanini Group](https://www.linkedin.com/company/stefanini).
 
 <p align="left">
     <a href="https://github.com/NickYoshizawa?tab=repositories&sort=stargazers">
